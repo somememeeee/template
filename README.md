@@ -1,10 +1,10 @@
-# 📦 Project name
+# 📦 {{REPOSITORY_NAME}}
 
 ## 🚀 **セットアップ方法**
 1. リポジトリをクローンします。
 
 2. 必要なライブラリをインストールします。
-   
+
 ## 💡 **ブランチ戦略**
 - `main`: 本番環境用の安定ブランチ
 - `develop`: 基本開発用ブランチ
@@ -21,4 +21,3 @@
 - desktopapp-productivity-taskmanager
 - webapp-sns-myawesomeapp-v2
 - desktopapp-productivity-taskmanager-mac
-
