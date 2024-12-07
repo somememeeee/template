@@ -13,11 +13,3 @@
 
 ## 🛠️ **使用技術**
 - 個々に記載
-
-## 👍 **リポジトリ名規則**
-<プロジェクトの種類>-<ジャンル>-<サービス名>-<追加情報 (オプション)>
-
-- webapp-sns-myawesomeapp
-- desktopapp-productivity-taskmanager
-- webapp-sns-myawesomeapp-v2
-- desktopapp-productivity-taskmanager-mac
