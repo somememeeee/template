@@ -1,4 +1,4 @@
-# 📦 My Awesome Project
+# 📦 Project name
 
 ## 🚀 **セットアップ方法**
 1. リポジトリをクローンします。
