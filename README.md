@@ -1,4 +1,4 @@
-# 📦 {{REPOSITORY_NAME}}
+# 📦 Project name here
 
 ## 🚀 **セットアップ方法**
 1. リポジトリをクローンします。
